@@ -31,7 +31,7 @@ The Smart Campus Placement Management System is a custom ServiceNow application 
 
 📄 Detailed Project Report:
 
-[Smart_Campus_Placement_Management_System.pdf](servicenowproject.pdf)
+[Smart_Campus_Placement_Management_System.pdf]([servicenowproject.pdf](https://github.com/santhoshakkisetti/Campus-Placement-Management-System/blob/main/servicenowproject.pdf))
 
 ## Author
 
